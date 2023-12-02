@@ -1,0 +1,34 @@
+@font-face{
+    font-family:oldrubberstamp;
+    src: url(Old_Rubber_Stamp.ttf);
+}
+
+html {
+background-image:url(smoke.jpg);
+background-repeat: no-repeat
+{cursor: url(https://ani.cursors-4u.net/cursors/cur-13/cur1156.ani), url(https://ani.cursors-4u.net/cursors/cur-13/cur1156.png), auto !important;
+}
+
+body{text-align: center;
+
+  color: silver;
+}
+
+h1 {
+  color: lightcyan;
+}
+    h2 {
+        color: lavender;
+    }
+    p{
+        color:blue;
+    }
+}
+
+h1{
+    font-family: oldrubberstamp;
+}
+
+img{
+    height:500px;
+}
